@@ -1,5 +1,3 @@
-
-
 def digit_root(num):
 
     num_str = str(num)
